@@ -42,7 +42,7 @@ API для социальной сети Yatube, где пользователи
 
 ### Перейдите в репозиторий к директории с файлом docker-compose.yaml с помощью командной строки: ###
 
-    cd yamdb_final/api_yamdb/infra/
+    cd yamdb_final_latest/api_yamdb/infra/
   
 ### Установите [Docker и Docker-compose](https://docs.docker.com/engine/install/ubuntu/). Запустите сборку образов: ###
 
