@@ -3,8 +3,8 @@
 <br/>
 
 
-test server deployed on 84.252.142.54
-login page: http://84.252.142.54/admin/
+test server deployed on 84.252.142.54<br/>
+login page: http://84.252.142.54/admin/</br>
 documentation: http://84.252.142.54/redoc/
 
 ### Описание: ###
