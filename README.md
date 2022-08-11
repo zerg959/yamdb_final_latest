@@ -24,7 +24,7 @@ API для социальной сети Yatube, где пользователи
 
 ### Клонируйте репозиторий: ###
 
-    git clone git@github.com:zerg959/yamdb_final.git
+    git clone git@github.com:zerg959/yamdb_final_latest.git
 
 
 ### Пример файла `.env`. Должен находится в папке `./api_yamdb/infra/`: ###
