@@ -8,7 +8,7 @@ services:
     env_file:
       - ./.env
   web:
-    image: zerg959/yamdb_latest:v3
+    image: zerg959/yamdb_latest:v4
     restart: always
     volumes:
       - static_value:/app/static/
